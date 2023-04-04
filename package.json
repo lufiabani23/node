@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Meu primeiro app em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lufiabani23/node.git"
+  },
+  "author": "Luís Fiabani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lufiabani23/node/issues"
+  },
+  "homepage": "https://github.com/lufiabani23/node#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
