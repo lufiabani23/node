@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lufiabani23/node#readme",
   "dependencies": {
+    "formidable": "^2.1.1",
     "nodemon": "^2.0.22"
   }
 }
